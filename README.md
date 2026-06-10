@@ -13,27 +13,6 @@ Built as a portfolio project demonstrating AI document processing, knowledge-gro
 - **DOCX export** generated entirely client-side (Office Open XML via JSZip)
 - **Sample RFP included** for one-click demos
 
-## Run it on GitHub Pages (easiest)
-
-1. Create a new GitHub repository and upload the contents of this folder.
-2. In the repo: **Settings → Pages → Source: Deploy from a branch → Branch: main / root → Save**.
-3. Open `https://<your-username>.github.io/<repo-name>/` (takes a minute to go live).
-4. In the app, expand **AI settings**, paste your Anthropic API key (console.anthropic.com → API Keys), and click **Test connection**.
-5. Upload an RFP (or click *Try the sample RFP*) and generate.
-
-The key is held in browser memory only for the page session — it is never embedded in the code, saved, or sent anywhere except `api.anthropic.com`. Anyone visiting your page would need their own key.
-
-## Run it locally
-
-Option A — with the included proxy (key never enters the browser):
-
-```bash
-ANTHROPIC_API_KEY=sk-ant-your-key python3 serve.py
-# then open http://localhost:8000/index.html
-```
-
-Option B — any static server (`python3 -m http.server`), then paste your key in AI settings. Note: opening `index.html` directly via double-click (`file://`) will block API calls in most browsers.
-
 ## How it works
 
 1. pdf.js extracts text from the uploaded PDF, preserving line structure

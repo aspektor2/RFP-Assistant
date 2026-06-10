@@ -1,0 +1,58 @@
+ASSERTIVE YIELD (AY) - COMPANY PROFILE
+Internal knowledge base for RFP responses. Source of truth for AI-generated drafts.
+
+== COMPANY OVERVIEW ==
+Assertive Yield (AY) is a global publisher technology company created by publishers, for publishers. Founded in 2019 by Nils Lind and headquartered in The Hague, Netherlands, with commercial teams across North America and Europe. AY has been bootstrapped and independent since founding, achieving 70% year-over-year revenue growth in 2023. The AY Next-Gen Publisher Tech Platform is an all-in-one toolkit for maximizing monetization revenue, pioneering real-time yield revenue management from all revenue sources with exceptionally granular data. AY is revenue-agnostic and committed exclusively to the interests of publishers: clients retain full control over their data and supply chains.
+
+== PRODUCTS ==
+- Yield Intelligence: real-time revenue analytics across all revenue sources in one centralized platform. Reporting latency of roughly 30 seconds, analysis across 300+ dimensions and metrics, real-time alerts, revenue predictions with 94-98% accuracy, and streamlined troubleshooting.
+- Yield Manager: a powerful hybrid header bidding wrapper (client-side) combining 11+ solutions in one platform, including A/B/C testing, ad refresh, AI Layouts, web ad mediation, and bid request optimization.
+- AY Prebid Server: server-side operations management with AI Traffic Shaping, AI Dynamic Flooring, and integrated identity (ID) solutions.
+- Yield Optimizer: AI-driven Dynamic Flooring and Traffic Shaping for publishers and SSPs, designed to boost revenue and improve user lifetime value.
+
+== DYNAMIC FLOORING ==
+- Real-time, AI-optimized floor pricing that protects inventory from being sold below value.
+- Optimized for Prebid, Amazon (A9/TAM), Google Open Bidding, and Google AdX.
+- Set and adjust optimal floor prices in GAM, Amazon, and Prebid from one place, with approximately 99% hands-free integration and continuous optimization.
+
+== TRAFFIC SHAPING ==
+- AI-powered traffic shaping for publishers and SSPs; machine learning models continuously adapt to traffic patterns.
+- Reduces redundant and duplicated bids, surfaces inventory that is otherwise hidden from demand partners, and improves auction accuracy.
+- Optimizes over 120 billion impressions per month, giving publishers greater visibility into their supply chain across all inventory tiers.
+
+== DATA & ANALYTICS ==
+- A simple script integration collects, normalizes, and cleans every event on the publisher's pages.
+- First-party data from all revenue streams is available in real time with highly granular detail across 300+ dimensions and metrics.
+- Designed for ad ops, rev ops, and yield teams: slicing and dicing, custom experiments, prebid analytics, and adstack performance monitoring.
+
+== SCALE & CUSTOMERS ==
+- Tracks 70B+ monthly impressions across the customer base; traffic shaping optimizes 120B+ impressions monthly.
+- Processed over $750M in ad revenue through the platform in 2023; the wrapper solution managed $100M in revenue and monetized 100 billion impressions.
+- Serves editorial, performance, and SEO publishers, ad networks, SSPs, and media buyers managing anywhere from a handful to thousands of domains.
+- Clients and partners include Shinez, Apartment Therapy, Hearst Autos, 9GAG, GumGum, Perion, Enthusiast Gaming, LADbible Group, Cambium, and Outbrain.
+- A 5-year strategic partnership with Shinez delivered up to 50% uplift in display revenue per thousand impressions.
+
+== TESTING & EXPERIMENTATION ==
+- A/B/C testing is built into Yield Manager for layouts, setups, and monetization strategies.
+- Custom experiments supported with granular, real-time measurement of results.
+
+== IDENTITY & COOKIELESS ==
+- Integrated ID solutions are available through AY Prebid Server.
+- The platform is built for a cookieless future, with first-party, real-time data at its core.
+
+== AD QUALITY & BRAND SAFETY ==
+- Integrated ad quality and security through a partnership with Confiant, protecting against malvertising attacks and malicious phishing redirects.
+- Protection can be enabled or disabled with a single click within the platform.
+
+== SUSTAINABILITY ==
+- Partnership with carbon intelligence platform Cedara to support sustainable advertising.
+- GumGum achieved a 38% reduction in bidstream CO2 emissions in 2023 through its partnership with AY's AI-driven traffic shaping.
+
+== PRIVACY & COMPLIANCE ==
+- Headquartered in the EU (Netherlands) and operating under GDPR.
+- Publishers retain full ownership and control of their first-party data and supply chains; AY's independent, revenue-agnostic model avoids the conflicts of interest common in demand-driven platforms.
+
+== CUSTOMER SUPPORT & SERVICES ==
+- AY operates as a software partner and consultant: the goal is to make client teams more efficient, not to replace them or take over full setup and monetization.
+- Dedicated account management with active attention to partner and customer needs.
+- Onboarding is lightweight: a simple script integration for analytics, with wrapper and server-side products configured to the publisher's stack.
